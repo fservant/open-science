@@ -5,6 +5,22 @@ This repository contains pre-prints and post-prints of my research articles, and
 ## Publications
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
+2019. FSE. James C. Davis, Louis G. Michael IV, Christy A. Coghlan, Francisco Servant, and Dongyoon Lee. 2019. Why aren’t Regular Expressions a Lingua Franca? An Empirical Study on the Re-Use and Portability of Regular Expressions. In Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Association for Computing Machinery, New York, NY, USA, 443–454. 
+
+[<i class="far fa-file">Accepted version (Github)</i>](accepted-papers/2019-FSE-Davis.pdf)
+
+[<i class="far fa-file">Accepted version (Zenodo)</i>](https://zenodo.org/records/13859341)
+
+[<i class="far fa-file">Accepted version (ArXiv)</i>](https://arxiv.org/abs/2105.04397)
+
+[<i class="fa fa-lock">Publisher's version (ACM)</i>](https://doi.org/10.1145/3338906.3338909)
+
+[<i class="fas fa-database">Software and Data (Zenodo)</i>](https://doi.org/10.5281/zenodo.3257777)
+
+[<i class="fas fa-database">Software and Data (Github)</i>](https://github.com/SBULeeLab/LinguaFranca-FSE19)
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------ -->
 2013. ASE. Francisco Servant, "Supporting Bug Investigation using History Analysis". Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering, Doctoral Symposium Track (ASE 2013), Silicon Valley, California, November 2013, pp. 754--757.
 
 [<i class="far fa-file">Accepted version (Github)</i>](accepted-papers/2013-ASE.pdf)
