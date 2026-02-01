@@ -13,11 +13,11 @@ This repository contains pre-prints and post-prints of my research articles, and
 
 [<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/ASE.2013.6693150)
 
-Software in Github (not used)
+Software (in Github): not used
 
-Software in Zenodo (not used)
+Software (in Zenodo): not used
 
-Data not used
+Data: not used
 
 
 2013. VISSOFT. Francisco Servant, James A. Jones, "Chronos: Visualizing Slices of Source-Code History". Proceedings of the 1st IEEE Working Conference on Software Visualization, Tool Track (VISSOFT 2013), Eindhoven, Netherlands, September 2013, pp. 1--4.                                                                                                                                                                                                                                                         
@@ -32,14 +32,23 @@ Data not used
 
 [<i class="fas fa-database">Software (in Zenodo)</i>](https://doi.org/10.5281/zenodo.14791122)
 
-[<i class="fas fa-database">Data</i>](https://github.com/eclipse-aspectj/aspectj)
+[<i class="fas fa-database">Data (external)</i>](https://github.com/eclipse-aspectj/aspectj)
 
 
-<p></p>
 2012. ICSE. Francisco Servant, James A. Jones, "WhoseFault: Automatic Developer-to-Fault Assignment Through Fault-Localization". Proceedings of the 34th International Conference on Software Engineering (ICSE 2012), Zurich, Switzerland, June 2012, pp. 36--46. Acceptance Rate: 21%                                                                                                                                                                                                                             
 
-| 2012. ICSE.    | [<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2012-ICSE.pdf)    | [<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/13859268) | [<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/ICSE.2012.6227208)    | [<i class="fas fa-database">Software (in Github)</i>](software/2012-ICSE.zip)    | [<i class="fas fa-database">Software (in Zenodo)</i>](https://doi.org/10.5281/zenodo.13859169) | [<i class="fas fa-database">Data</i>](https://www.st.cs.uni-saarland.de/ibugs/)                                               |
-| :--            | :--                                                                                         | :--                                                                                             | :--                                                                                           | :--                                                                              | :--                                                                                            | :---------------------------------------------------------------------------------------------------------------------------- |
+[<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2012-ICSE.pdf)
+
+[<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/13859268)
+
+[<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/ICSE.2012.6227208)
+
+[<i class="fas fa-database">Software (in Github)</i>](software/2012-ICSE.zip)
+
+[<i class="fas fa-database">Software (in Zenodo)</i>](https://doi.org/10.5281/zenodo.13859169)
+
+[<i class="fas fa-database">Data</i>](https://www.st.cs.uni-saarland.de/ibugs/)
+
 
 <p></p>
 2012. FSE. Francisco Servant, James A. Jones, "History Slicing: Assisting Code-Evolution Tasks". Proceedings of the 20th International Symposium on Foundations of Software Engineering (FSE 2012), Research Triangle Park, NC, USA, November 2012, pp. 43:1--43:11. Acceptance Rate: 16.9%                                                                                                                                                                                                                        
