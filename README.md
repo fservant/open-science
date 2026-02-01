@@ -12,10 +12,17 @@ This repository contains pre-prints and post-prints of my research articles, and
 
 <p></p>
 2013. VISSOFT. Francisco Servant, James A. Jones, "Chronos: Visualizing Slices of Source-Code History". Proceedings of the 1st IEEE Working Conference on Software Visualization, Tool Track (VISSOFT 2013), Eindhoven, Netherlands, September 2013, pp. 1--4.                                                                                                                                                                                                                                                         
+[<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-VISSOFT.pdf)
+[<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/14791049)
+[<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/VISSOFT.2013.6650547)
+[<i class="fas fa-database">Software (in Github)</i>](software/2013-VISSOFT.zip)
+[<i class="fas fa-database">Software (in Zenodo)</i>](https://doi.org/10.5281/zenodo.14791122)
+[<i class="fas fa-database">Data</i>](https://github.com/eclipse-aspectj/aspectj)
 
-| 2013. VISSOFT. | [<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-VISSOFT.pdf) | [<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/14791049) | [<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/VISSOFT.2013.6650547) | [<i class="fas fa-database">Software (in Github)</i>](software/2013-VISSOFT.zip) | [<i class="fas fa-database">Software (in Zenodo)</i>](https://doi.org/10.5281/zenodo.14791122) | [<i class="fas fa-database">Data</i>](https://github.com/eclipse-aspectj/aspectj)                                             |
+<!-- 
+| 2013. VISSOFT. |  |  |  |  |  |                                              |
 | :--            | :--                                                                                         | :--                                                                                             | :--                                                                                           | :--                                                                              | :--                                                                                            | :---------------------------------------------------------------------------------------------------------------------------- |
-
+ -->
 <p></p>
 2012. ICSE. Francisco Servant, James A. Jones, "WhoseFault: Automatic Developer-to-Fault Assignment Through Fault-Localization". Proceedings of the 34th International Conference on Software Engineering (ICSE 2012), Zurich, Switzerland, June 2012, pp. 36--46. Acceptance Rate: 21%                                                                                                                                                                                                                             
 
