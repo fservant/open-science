@@ -20,40 +20,20 @@ Software in Zenodo (not used)
 Data not used
 
 
-<!-- 
-| 2013. ASE.     | [<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-ASE.pdf)     | [<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/14791184) | [<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/ASE.2013.6693150)     | Software in Github (not used)                                                    | Software in Zenodo (not used)                                                                  | not used                                                                                                                      |
-| :--            | :--                                                                                         | :--                                                                                             | :--                                                                                           | :--                                                                              | :--                                                                                            | :---------------------------------------------------------------------------------------------------------------------------- |
- -->
-
 2013. VISSOFT. Francisco Servant, James A. Jones, "Chronos: Visualizing Slices of Source-Code History". Proceedings of the 1st IEEE Working Conference on Software Visualization, Tool Track (VISSOFT 2013), Eindhoven, Netherlands, September 2013, pp. 1--4.                                                                                                                                                                                                                                                         
 
-| 2013. VISSOFT. | [<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-VISSOFT.pdf) | [<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/14791049) | [<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/VISSOFT.2013.6650547) | [<i class="fas fa-database">Software (in Github)</i>](software/2013-VISSOFT.zip) | [<i class="fas fa-database">Software (in Zenodo)</i>](https://doi.org/10.5281/zenodo.14791122) | [<i class="fas fa-database">Data</i>](https://github.com/eclipse-aspectj/aspectj)                                             |
-| :--            | :--                                                                                         | :--                                                                                             | :--                                                                                           | :--                                                                              | :--                                                                                            | :---------------------------------------------------------------------------------------------------------------------------- |
-
-<!-- 
-<p></p>
-2013. VISSOFT. Francisco Servant, James A. Jones, "Chronos: Visualizing Slices of Source-Code History". Proceedings of the 1st IEEE Working Conference on Software Visualization, Tool Track (VISSOFT 2013), Eindhoven, Netherlands, September 2013, pp. 1--4.                                                                                                                                                                                                                                                         
-
-<p></p>
 [<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-VISSOFT.pdf)
 
-<p></p>
 [<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/14791049)
 
-<p></p>
 [<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/VISSOFT.2013.6650547)
 
-<p></p>
 [<i class="fas fa-database">Software (in Github)</i>](software/2013-VISSOFT.zip)
 
-<p></p>
 [<i class="fas fa-database">Software (in Zenodo)</i>](https://doi.org/10.5281/zenodo.14791122)
 
-<p></p>
 [<i class="fas fa-database">Data</i>](https://github.com/eclipse-aspectj/aspectj)
 
-<p></p>
- -->
 
 <p></p>
 2012. ICSE. Francisco Servant, James A. Jones, "WhoseFault: Automatic Developer-to-Fault Assignment Through Fault-Localization". Proceedings of the 34th International Conference on Software Engineering (ICSE 2012), Zurich, Switzerland, June 2012, pp. 36--46. Acceptance Rate: 21%                                                                                                                                                                                                                             
