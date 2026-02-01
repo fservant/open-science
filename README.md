@@ -6,11 +6,18 @@ This repository contains pre-prints and post-prints of my research articles, and
 
 2013. ASE. Francisco Servant, "Supporting Bug Investigation using History Analysis". Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering, Doctoral Symposium Track (ASE 2013), Silicon Valley, California, November 2013, pp. 754--757.                                                                                                                                                                                                                                    
 
-[<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-ASE.pdf)
+[<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-ASE.pdf)    
+[<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/14791184)
+[<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/ASE.2013.6693150)    
+Software in Github (not used)                                                   
+Software in Zenodo (not used)                                                                 
+not used                                                                                                                    
 
+
+<!-- 
 | 2013. ASE.     | [<i class="far fa-file">Accepted version (in Github)</i>](accepted-papers/2013-ASE.pdf)     | [<i class="far fa-file">Accepted version (in Zenodo) </i>](https://zenodo.org/records/14791184) | [<i class="fa fa-lock">Publisher's version</i>](https://doi.org/10.1109/ASE.2013.6693150)     | Software in Github (not used)                                                    | Software in Zenodo (not used)                                                                  | not used                                                                                                                      |
 | :--            | :--                                                                                         | :--                                                                                             | :--                                                                                           | :--                                                                              | :--                                                                                            | :---------------------------------------------------------------------------------------------------------------------------- |
-
+ -->
 
 2013. VISSOFT. Francisco Servant, James A. Jones, "Chronos: Visualizing Slices of Source-Code History". Proceedings of the 1st IEEE Working Conference on Software Visualization, Tool Track (VISSOFT 2013), Eindhoven, Netherlands, September 2013, pp. 1--4.                                                                                                                                                                                                                                                         
 
