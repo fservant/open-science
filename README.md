@@ -13,6 +13,10 @@ This repository contains pre-prints and post-prints of my research articles, and
 
 [<i class="fa fa-lock">Publisher's version (Elsevier)</i>](https://doi.org/10.1016/j.jss.2021.110905)
 
+[<i class="fas fa-database">Software and Data (Zenodo)</i>](https://doi.org/10.5281/zenodo.18456542)
+
+[<i class="fas fa-database">Software and Data (Github)</i>](https://github.com/ayaankazerouni/mutation-testing)
+
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
 2021. JSS. Rafael Barbudo, Aurora Ramírez, Francisco Servant, José Raúl Romero, GEML: A Grammar-Based Evolutionary Machine Learning Approach for Design-Pattern Detection, Journal of Systems and Software, Volume 175, 2021, 110919, ISSN 0164-1212.
