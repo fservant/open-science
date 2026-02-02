@@ -5,6 +5,20 @@ This repository contains pre-prints and post-prints of my research articles, and
 ## Publications
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
+2021. IEEE S&P. Xianhao Jin and Francisco Servant. 2020. A Cost-Efficient Approach to Building in Continuous Integration. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 13–25. 
+
+[<i class="far fa-file">Accepted version (Zenodo)</i>](https://zenodo.org/records/13859357)
+
+[<i class="far fa-file">Accepted version (Github)</i>](accepted-papers/2021-SP.pdf)
+
+[<i class="fa fa-lock">Publisher's version (ACM)</i>](https://doi.org/10.1109/SP40001.2021.00032)
+
+[<i class="fas fa-database">Software and Data (Zenodo)</i>](https://doi.org/10.5281/zenodo.4718965)
+
+[<i class="fas fa-database">Software and Data (Github)</i>](https://github.com/PurdueDualityLab/memoized-regex-engine)
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------ -->
 2020. ICSE. Xianhao Jin and Francisco Servant. 2020. A Cost-Efficient Approach to Building in Continuous Integration. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 13–25. 
 
 [<i class="far fa-file">Accepted version (Zenodo)</i>](https://zenodo.org/records/13859365)
