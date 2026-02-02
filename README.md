@@ -15,9 +15,9 @@ This repository contains pre-prints and post-prints of my research articles, and
 
 [<i class="fas fa-database">Software and Data (Zenodo)</i>](https://doi.org/10.5281/zenodo.2667376)
 
-[<i class="fas fa-database">Software (Github)</i>](accepted-papers/2020-ICSE-Software.zip)
+[<i class="fas fa-database">Software (Github)</i>](software/2020-ICSE-Software.zip)
 
-[<i class="fas fa-database">Data (Github)</i>](accepted-papers/2020-ICSE-Data.zip)
+[<i class="fas fa-database">Data (Github)</i>](software/2020-ICSE-Data.zip)
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
