@@ -5,13 +5,39 @@ This repository contains pre-prints and post-prints of my research articles, and
 ## Publications
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
-2021. IEEE S&P. Xianhao Jin and Francisco Servant. 2020. A Cost-Efficient Approach to Building in Continuous Integration. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 13–25. 
+2021. JSS. Ayaan M. Kazerouni, James C. Davis, Arinjoy Basak, Clifford A. Shaffer, Francisco Servant, Stephen H. Edwards, Fast and Accurate Incremental Feedback for Students’ Software Tests using Selective Mutation Analysis, Journal of Systems and Software, Volume 175, 2021, 110905, ISSN 0164-1212.
+
+[<i class="far fa-file">Accepted version (Zenodo)</i>](https://zenodo.org/records/18214722)
+
+[<i class="far fa-file">Accepted version (Github)</i>](accepted-papers/2021-JSS-Kazerouni.pdf)
+
+[<i class="fa fa-lock">Publisher's version (Elsevier)</i>](https://doi.org/10.1016/j.jss.2021.110905)
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------ -->
+2021. JSS. Rafael Barbudo, Aurora Ramírez, Francisco Servant, José Raúl Romero, GEML: A Grammar-Based Evolutionary Machine Learning Approach for Design-Pattern Detection, Journal of Systems and Software, Volume 175, 2021, 110919, ISSN 0164-1212.
+
+[<i class="far fa-file">Accepted version (Zenodo)</i>](https://zenodo.org/records/18214846)
+
+[<i class="far fa-file">Accepted version (Github)</i>](accepted-papers/2021-JSS-Barbudo.pdf)
+
+[<i class="far fa-file">Accepted version (ArXiv)</i>](https://arxiv.org/abs/2401.07042)
+
+[<i class="fa fa-lock">Publisher's version (Elsevier)</i>](https://doi.org/10.1016/j.jss.2021.110919)
+
+[<i class="fas fa-database">Software and Data (Zenodo)</i>](https://doi.org/10.5281/zenodo.10525034)
+
+[<i class="fas fa-database">Software and Data (Github)</i>](https://github.com/jrromero/geml/tree/GEML_supp_v1)
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------ -->
+2021. IEEE S&P. James C. Davis, Francisco Servant and Dongyoon Lee, "Using Selective Memoization to Defeat Regular Expression Denial of Service (ReDoS)," 2021 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2021, pp. 1-17.
 
 [<i class="far fa-file">Accepted version (Zenodo)</i>](https://zenodo.org/records/13859357)
 
 [<i class="far fa-file">Accepted version (Github)</i>](accepted-papers/2021-SP.pdf)
 
-[<i class="fa fa-lock">Publisher's version (ACM)</i>](https://doi.org/10.1109/SP40001.2021.00032)
+[<i class="fa fa-lock">Publisher's version (IEEE)</i>](https://doi.org/10.1109/SP40001.2021.00032)
 
 [<i class="fas fa-database">Software and Data (Zenodo)</i>](https://doi.org/10.5281/zenodo.4718965)
 
